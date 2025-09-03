@@ -34,7 +34,7 @@ Built using **Power BI**, with **Power Query** for data cleaning and **DAX** for
 ---
 
 ##  Dashboard Preview
-![Dashboard Screenshot](Dashboard poject 1 image.png)
+
 
 
 
